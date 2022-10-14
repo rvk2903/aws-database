@@ -1,0 +1,6 @@
+customhost ="employee.cmki1spp60u9.ap-south-1.rds.amazonaws.com"
+customuser = "vinod"
+custompass = "vinod123"
+customdb = "employee"
+custombucket = "aws-bucket"
+customregion = "ap-south-1"
